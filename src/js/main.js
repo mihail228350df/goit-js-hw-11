@@ -84,4 +84,4 @@ function dataProcessing(data) {
     });
   }
   observer.observe(gallery.lastElementChild);
-}
+} 
